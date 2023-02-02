@@ -9,3 +9,7 @@ pip install json
 pip install xlwings
 ~~~
 直接运行
+~~~
+python.exe PrimaryDataToExcel.py
+~~~
+输出文件在D盘
